@@ -1,12 +1,12 @@
 # Subword Evenness and Cross-Lingual Transfer in Multilingual Language Models
 
-This repository contains selected code and experiment setup from the paper:
+This repository documents my contribution to the paper:
 
 **"Subword Evenness (SuE) as a Predictor of Cross-lingual Transfer to Low-resource Languages"**  
 by Olga Pelloni, Anastassia Shaitarova, and Tanja Samardzic  
 [https://aclanthology.org/2022.emnlp-main.503/](https://aclanthology.org/2022.emnlp-main.503/)
 
-🔗 Full codebase available at the original repository: [olgapelloni/subword_evenness](https://github.com/olgapelloni/subword_evenness)
+🔗 Full codebase: [olgapelloni/subword_evenness](https://github.com/olgapelloni/subword_evenness)
 
 ---
 
@@ -31,8 +31,7 @@ As second author and contributor, I was responsible for:
 
 ## Citation
 
-If you use this code or dataset, please cite the paper:
-
+If you use the paper or its associated code, please cite:
 @inproceedings{pelloni-etal-2022-subword,
 title = "Subword Evenness (SuE) as a Predictor of Cross-lingual Transfer to Low-resource Languages",
 author = "Pelloni, Olga and Shaitarova, Anastassia and Samardzic, Tanja",
@@ -40,6 +39,3 @@ booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural 
 year = "2022",
 url = "https://aclanthology.org/2022.emnlp-main.503"
 }
-
-
-
