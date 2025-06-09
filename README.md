@@ -23,8 +23,8 @@ This project introduces **Subword Evenness (SuE)** — a novel metric that predi
 As second author and contributor, I was responsible for:
 
 - Preparing multilingual Hugging Face `Dataset` objects from raw text for over 30 low- and high-resource languages, including genre balancing, token curation, and metadata management  
-- Designing and running training pipelines for **mBERT** and **mT5** using Hugging Face scripts, including checkpointing, perplexity evaluation, and correlation analysis across language pairs  
-- Setting up and maintaining experiment infrastructure across multiple servers, optimizing training parameters, and automating evaluation workflows  
+- Designing and running training pipelines for **mBERT** and **mT5** using HuggingFace checkpoints
+- Running perplexity evaluation and correlation analysis across language pairs  
 - Co-authoring the paper and supporting documentation
 
 ---
