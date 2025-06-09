@@ -32,6 +32,7 @@ As second author and contributor, I was responsible for:
 ## Citation
 
 If you use the paper or its associated code, please cite:
+```
 @inproceedings{pelloni-etal-2022-subword,
 title = "Subword Evenness (SuE) as a Predictor of Cross-lingual Transfer to Low-resource Languages",
 author = "Pelloni, Olga and Shaitarova, Anastassia and Samardzic, Tanja",
@@ -39,3 +40,4 @@ booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural 
 year = "2022",
 url = "https://aclanthology.org/2022.emnlp-main.503"
 }
+```
